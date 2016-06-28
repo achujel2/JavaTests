@@ -12,5 +12,5 @@ Java tutorial http://www.tutorialspoint.com/java/index.htm:
  4. Java - Basic Syntax
  5. Java - Object & Classes
  6. Java - Basic Datatypes
-
+ 7. Java - Variable Types
 
