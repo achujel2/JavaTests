@@ -15,6 +15,6 @@ Java tutorial http://www.tutorialspoint.com/java/index.htm:
  7. Java - Variable Types
  8. Java - Modifier Types
  9. Java - Basic Operators
-10. Java - Loop Control
-11. Java - Decision Making
+ 10. Java - Loop Control
+ 11. Java - Decision Making
 
